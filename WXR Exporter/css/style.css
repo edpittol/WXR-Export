@@ -1,0 +1,44 @@
+html {
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif; 
+}
+
+.sql-error {
+	display: none;
+	
+	margin-top: 10px;
+}
+
+/* FORMEE */
+#maps {
+	font-size: 16px;	
+}
+
+.formee h3 {
+	margin: 0;
+}
+
+.grid-1-12, .grid-2-12, .grid-3-12, .grid-4-12, .grid-5-12, .grid-6-12, .grid-7-12, .grid-8-12, 
+.grid-9-12, .grid-10-12, .grid-11-12, .grid-12-12 {
+	height: 99.5%;
+    padding: 0 0.5% 0.5%;
+}
+
+/* MAP */
+.add {
+	margin-top: 40px;
+}
+
+.map {
+	margin-bottom: 15px;
+	
+	line-height: 42px;
+}
+
+.remove {
+	margin-top: 6px;
+}
+
+.button {
+	cursor: pointer;
+}
